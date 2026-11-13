@@ -14,7 +14,7 @@ All three sources are MIT licensed; each skill folder keeps its LICENSE.
 
 ## Use it
 
-1. Write your prompt in `prompts/`.
+1. Read what to build in [`docs/product-brief.md`](docs/product-brief.md), then write your prompt in `prompts/`.
 2. Start Claude Code here with a clean profile, so only these skills load:
 
    ```bash
